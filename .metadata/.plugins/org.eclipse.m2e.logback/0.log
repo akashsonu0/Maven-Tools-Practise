@@ -2078,3 +2078,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact RazorPay:Wish
 2026-09-14 14:57:14,086 [Worker-3: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\OctBatchMicroservices\mvnpractise\Maven-App-01\src\main\resources
 2026-09-14 14:57:14,090 [Worker-3: Launching App] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2026-09-14 14:57:14,091 [Worker-3: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\OctBatchMicroservices\mvnpractise\Maven-App-01\src\test\resources
+2026-09-14 14:58:57,579 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-09-14 14:58:59,804 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WishMessageService: RazorPay:WishMessageService:1.3 with classifier  to /WishMessageService/target/classes

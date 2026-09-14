@@ -38,7 +38,5 @@ public class MainApp {
         statement.close();
         connection.close();
         System.out.println("Closing the resources...");
-        
-        
     }
 }
