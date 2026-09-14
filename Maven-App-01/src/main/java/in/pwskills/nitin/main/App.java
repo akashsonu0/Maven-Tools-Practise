@@ -7,7 +7,6 @@ class Arithmetic
 		return x+y;
 	}
 }
-
 public class App 
 {
     public static void main( String[] args )
